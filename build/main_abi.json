@@ -2,7 +2,7 @@
     {
         "inputs": [
             {
-                "name": "amount",
+                "name":  "amount",
                 "type": "felt"
             }
         ],
